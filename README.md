@@ -24,4 +24,4 @@ Created a Timed Typing Test application for my CIT 384 course using HTML, CSS, a
         
 # Live output:
     - The link below display the outcome of the Timed Typing Test application
-       https://jennym0715.github.io/JennyM0715.github.io_Timed_Typing_Test/
+[output link](https://jennym0715.github.io/JennyM0715.github.io_Timed_Typing_Test)
